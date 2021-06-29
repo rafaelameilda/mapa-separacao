@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "type": "oracle",
+  "port": 1521,
+  "host": "",
+  "username": "",
+  "password": "",
+  "sid": "",
+  "entities": ["./src/modules/**/entities/*.ts"]
+}
